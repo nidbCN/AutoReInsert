@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32120.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoReInsert", "AutoReInsert\AutoReInsert.csproj", "{58E14178-D78D-40C1-BD26-FC83D521C629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoReInsert.Service", "AutoReInsert.Service\AutoReInsert.Service.csproj", "{A0CAB498-6A0A-4B3A-90A8-ACD6C89ACB37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{58E14178-D78D-40C1-BD26-FC83D521C629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58E14178-D78D-40C1-BD26-FC83D521C629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58E14178-D78D-40C1-BD26-FC83D521C629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CAB498-6A0A-4B3A-90A8-ACD6C89ACB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CAB498-6A0A-4B3A-90A8-ACD6C89ACB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CAB498-6A0A-4B3A-90A8-ACD6C89ACB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CAB498-6A0A-4B3A-90A8-ACD6C89ACB37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
